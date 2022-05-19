@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/broker/ingress@sha256:450bba7e5d82c664b9cc7b45266744c5c418cc4e5ece290fa11ba0e9af2800b4
