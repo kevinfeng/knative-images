@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/broker/filter@sha256:cc003ce0ad304b6892054a5dd5d1f906bd57950bb5db33cb90f9ff8a990315be
